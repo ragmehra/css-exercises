@@ -5,11 +5,7 @@
   padding: 8px;
   justify-content: space-between;
   align-items: center;
-  gap: 5px;
-}
-
-.left-links {
-  margin-right: auto;
+  gap: 5px; 
 }
 
 .left-links ul {
@@ -17,9 +13,7 @@
   gap: 5px;
 }
 
-.right-links {
-  margin-left: auto;
-}
+
 .right-links ul {
   display: flex;
   gap: 5px;
